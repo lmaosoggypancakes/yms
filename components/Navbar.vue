@@ -29,7 +29,7 @@
       </div>
     </div>
     <div class="navbar-center">
-      <a class="btn btn-ghost normal-case text-xl">Pancakes, Inc.</a>
+      <a class="btn btn-ghost normal-case text-xl">Young Men's Society</a>
     </div>
     <div class="navbar-end">
       <button class="btn btn-ghost btn-circle">

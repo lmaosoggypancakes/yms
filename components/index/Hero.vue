@@ -8,7 +8,7 @@
         </div>
       </div>
       <div class="max-w-2xl text-center md:text-left">
-        <h1 class="text-5xl font-bold">Pancakes made easy.</h1>
+        <h1 class="text-5xl font-bold">Young Men's Society :3</h1>
         <p class="py-6">
           We provide high-quality infrastructure and delectable recipes so you
           can enjoy pancakes without any hassle.

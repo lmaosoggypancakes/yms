@@ -3,8 +3,11 @@
     <div class="space-y-8">
       <h2 class="text-5xl">We provide high-quality pancakes.</h2>
       <p>
-        Tailored for any workflow. Whether working from home, in the office, or
-        in the middle of a desert, rest assured: pancakes are on the way.
+        The Young Men's Society is committed to empowering young men personally
+        and professionally. Our mission is to provide valuable resources and a
+        supportive community to help you achieve personal growth and career
+        success—join us as we navigate life's challenges and strive for
+        excellence together.
       </p>
     </div>
     <img src="@/assets/svg/barista.svg" class="h-96 w-96" />

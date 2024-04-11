@@ -10,10 +10,11 @@
       <div class="max-w-2xl text-center md:text-left">
         <h1 class="text-5xl font-bold">Young Men's Society :3</h1>
         <p class="py-6">
-          We provide high-quality infrastructure and delectable recipes so you
-          can enjoy pancakes without any hassle.
+          The Young Men's Society is dedicated to helping young men to shape
+          their destiny, embrace their potential, and build a brighter future
+          together.
         </p>
-        <button class="btn btn-primary" @click="count++">Get Started</button>
+        <button class="btn btn-primary" @click="count++">Join Us</button>
       </div>
     </div>
   </div>
